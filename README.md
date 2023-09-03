@@ -5,9 +5,14 @@
 3. sudo usermod -a -G dialout $USER
 4. Log out and log back in. You __MUST__ do this, otherwise Arduino-ide won't be able to talk to the board(Needed for loading code).
 
-# Board Config
+# Board Config(Board)
 
 ![Board_Config](images/board_config_switches.png)
+![Arduino_Config](images/arduino_config.png)
+
+
+# To run:
+1. Connect board
 
 # Libraries used:
 
